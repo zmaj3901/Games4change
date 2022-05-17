@@ -1,0 +1,29 @@
+.wow {
+  width: 100px;
+}
+
+body{
+  background: linear-gradient(to bottom right, #DC9177     0%, #E1B98A   50%);
+  height: 10000px;
+}
+
+h1 {
+font-family: "Sofia";
+  font-size: 55px;
+  color: #831100;
+  font-size: 80px;
+ 
+}
+
+h2{
+  color: #ffdad8  ;
+  text-shadow: 5px 3px #831100  ;
+}
+
+
+
+h4{
+  border: 2px solid #b51a00  ;
+  box-sizing: border-box;
+  font-size: 25px;
+}
